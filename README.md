@@ -1,14 +1,18 @@
-Built this responsive weather web app as part of the E-Cell recruitment task.
-🔍 Users can search any city or use their current location to get real-time weather updates including temperature, humidity, and more.
+🌦️ Welcome to WeatherWise, a clean and interactive web app developed as part of the E-Cell Recruitment Drive at NIT Silchar. This project provides users with accurate, real-time weather updates in a stylish and responsive interface, while highlighting the developer's front-end and API integration skills.
 
-💡 Learned:
+🚀 Features
+📍 Search weather by city or use your current location
+🌡️ Real-time temperature, humidity, wind speed & condition updates
+📱 Responsive design for all screen sizes
+⚙️ Seamless OpenWeatherMap API integration
 
-API integration (OpenWeatherMap)
+🎨 Modern responsive UI built with HTML, CSS, and JavaScript
 
-DOM manipulation
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+API: OpenWeatherMap
+Deployment: Git, Vercel
 
-Handling geolocation
+📌 Purpose
+Crafted for the E-Cell Recruitment at NIT Silchar to demonstrate practical web development skills and real-world API usage.
 
-Building responsive UIs with clean design
-
-🚀 Tech Stack: HTML | CSS | JavaScript | OpenWeatherMap API
