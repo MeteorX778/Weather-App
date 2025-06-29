@@ -1,4 +1,4 @@
-#Built this responsive weather web app as part of the E-Cell recruitment task.
+Built this responsive weather web app as part of the E-Cell recruitment task.
 🔍 Users can search any city or use their current location to get real-time weather updates including temperature, humidity, and more.
 
 💡 Learned:
